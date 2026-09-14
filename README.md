@@ -36,3 +36,7 @@ the biggest strengths of jj are clear, safe tools to:
 In this workshop, we're going to cover the details of exactly how jj can offer this kind of safety and flexibility. We're also going to show how to use jj to accomplish common git workflows, and cover workflows in jj that are impractical or sometimes even impossible using just git. git is much more powerful than what came before, but can still feel scary and dangerous to use today, 20 years after it was introduced. jj is living proof source control doesn't need to be scary!
 
 After this workshop, you'll have a clear grasp of the conceptual changes jj has made compared to git, and be confident as you manage changes. We'll show exactly how jj provides simplicity, understandability, and safety for your daily work.
+
+## participate
+
+To follow along, start with [SETUP.md](/SETUP.md)
