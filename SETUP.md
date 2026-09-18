@@ -28,7 +28,7 @@ To get completions for commands, IDs, and names, add this to your shell config f
 
 ### bash
 ```bash
-source <(COMPLETE=zsh jj)
+source <(COMPLETE=bash jj)
 ```
 
 ### zsh
